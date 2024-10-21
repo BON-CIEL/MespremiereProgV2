@@ -10,6 +10,12 @@
 //6.  Jeu de devinette
 //7.  Triangle d’étoiles
 
+// psedo code 
+// importer tout les progreme 
+// demadere a lutilisateur de choisire son progrmame 
+// si il renntre un mvait chifre refair le programe 
+// si il  tape 8 alors fin du programe 
+
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
